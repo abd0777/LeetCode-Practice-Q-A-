@@ -17,4 +17,8 @@ Whether you're:
 
 ⭐️ Don’t forget to Star the repo if you find it helpful  
 📌 Stay consistent, stay sharp — Let’s ace the LeetCode journey together!
+<!--
+leetcode potd, leetcode daily challenge, leetcode problem of the day, daily leetcode solution, leetcode Q&A, coding interview prep, dsa daily practice, leetcode explanations
+-->
+
 
